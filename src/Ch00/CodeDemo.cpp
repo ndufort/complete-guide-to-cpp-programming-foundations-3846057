@@ -1,6 +1,6 @@
 // Complete Guide to C++ Programming Foundations
 // Exercise 00_03
-// >> test edit
+// >> Test edit
 // Using the Exercise Files in GitHub Codespaces, by Eduardo Corpeño 
 
 #include <iostream>
